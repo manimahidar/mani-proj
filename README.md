@@ -1,2 +1,2 @@
 # mani-proj
-Hi Welcome mani project
+Hi Welcome to mani project
