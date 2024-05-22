@@ -1,6 +1,10 @@
 # mani-proj
 Hi Welcome to mani project
-welcome aws devops
+
+welcome to aws devops
+
 git hub
+
 maven
+
 linux
